@@ -1,0 +1,13 @@
+{
+  "dataset": "synthetic demonstration data",
+  "n_policies": 8000,
+  "train_policies": 6000,
+  "test_policies": 2000,
+  "observed_claim_rate": 0.05973589956380311,
+  "best_frequency_model": "GLM Poisson",
+  "best_severity_model": "Random Forest",
+  "test_pure_premium_mae_eur": 1566.9669375214846,
+  "observed_test_total_cost_eur": 1199367.83,
+  "predicted_test_total_cost_eur": 1136208.7083186582,
+  "portfolio_calibration_ratio": 0.9473396566911905
+}

@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Bases originales du challenge à ne pas publier
+data/train_inputclean.csv
+data/train_output.csv
+data/test_input.csv
+data/*original*
+data/*raw*
